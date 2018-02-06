@@ -2,9 +2,13 @@
     <string name="app_name">Just Java</string>
     <string name="quantity">quantity</string>
     <string name="quantity_value">1</string>
-    <string name="price">price</string>
-    <string name="price_value">0€</string>
+    <string name="summary">Order summary</string>
+    <string name="summary_text"> </string>
     <string name="order">Order</string>
     <string name="plus_sign">+</string>
     <string name="minus_sign">-</string>
+    <string name="toppings">Toppings</string>
+    <string name="cream">Whipped cream</string>
+    <string name="chocolate">Chocolate topping</string>
+    <string name="name">Name</string>
 </resources>
